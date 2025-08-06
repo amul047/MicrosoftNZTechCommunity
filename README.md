@@ -41,7 +41,7 @@ Join the [Microsoft Tech Community](https://techcommunity.microsoft.com/).
 
 | Community | Meeting Details | Organiser/s |
 |:----------|:----------------|:------------|
-| **Auckland Fabric, Power BI & Analytics** `Fabric` `Power BI` `Analytics`<br>[🔗 Join Group](https://aka.ms/AotearoaFabric) | 🕕 Evening • 🏠 In-Person<br>📍 [Microsoft Auckland](https://www.google.com/maps/place/Microsoft/@-36.8453274,174.7543592,897m/data=!3m2!1e3!4b1!4m6!3m5!1s0x6d0d47f3e8675bbd:0xbd654f8dc24d666e!8m2!3d-36.8453274!4d174.7569341!16s%2Fg%2F1tfrs2_d?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D) | [Reza Rad](https://www.linkedin.com/in/rezarad/)<br>[Indira Bandari](https://www.linkedin.com/in/indira-bandari/) |
+| **Auckland Fabric, Power BI & Analytics** `Fabric` `Power BI` `Analytics`<br>[🔗 Join Group](https://www.meetup.com/new-zealand-business-intelligence-user-group/) | 🕕 Evening • 🏠 In-Person<br>📍 [Microsoft Auckland](https://www.google.com/maps/place/Microsoft/@-36.8453274,174.7543592,897m/data=!3m2!1e3!4b1!4m6!3m5!1s0x6d0d47f3e8675bbd:0xbd654f8dc24d666e!8m2!3d-36.8453274!4d174.7569341!16s%2Fg%2F1tfrs2_d?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D) | [Reza Rad](https://www.linkedin.com/in/rezarad/)<br>[Indira Bandari](https://www.linkedin.com/in/indira-bandari/) |
 
 ### ⚡ Power Platform & Business Apps
 
